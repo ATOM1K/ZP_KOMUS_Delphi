@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.710,C:\Users\ATOMIK\Desktop\калькулятор\йащкь.dfm=C:\Users\ATOMIK\Desktop\калькулятор\qform.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=C:\Users\ATOMIK\Desktop\калькулятор\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,C:\Users\ATOMIK\Desktop\калькулятор\йащкь.pas=C:\Users\ATOMIK\Desktop\калькулятор\qform.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\ATOMIK\Desktop\калькулятор\KOMUS_ZP_CHUNOSOV.dfm=C:\Users\ATOMIK\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\ATOMIK\Desktop\калькулятор\tabs.dfm=C:\Users\ATOMIK\Desktop\калькулятор\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=C:\Users\ATOMIK\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,=C:\Users\ATOMIK\Desktop\калькулятор\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\ATOMIK\Desktop\калькулятор\tabs.pas=C:\Users\ATOMIK\Desktop\калькулятор\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\ATOMIK\Desktop\калькулятор\KOMUS_ZP_CHUNOSOV.pas=C:\Users\ATOMIK\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,C:\Users\ATOMIK\Desktop\калькулятор\Unit2.dfm=C:\Users\ATOMIK\Desktop\калькулятор\йащкь.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,=C:\Users\ATOMIK\Desktop\калькулятор\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,C:\Users\ATOMIK\Desktop\калькулятор\Unit2.pas=C:\Users\ATOMIK\Desktop\калькулятор\йащкь.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,C:\Users\ATOMIK\Desktop\калькулятор\KOMUS_ZP_CHAAL1H.dproj=C:\Users\ATOMIK\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
